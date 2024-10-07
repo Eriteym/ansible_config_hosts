@@ -9,7 +9,6 @@
     - { role: docker, become: yes }
     - { role: DBeaver, become: yes }
     - { role: maven, become: yes }
-    - { role: JetBrains_toolbox, become: no }
     - { role: mattermost, become: yes }
     - { role: Virtualbox, become: yes }
     - { role: visualvm, become: yes }
