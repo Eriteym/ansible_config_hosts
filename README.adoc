@@ -22,3 +22,8 @@ ansible-playbook gradle.yml -kK
 ----
 ansible-playbook docker.yml -kK
 ----
+
+
+```
+test synced
+```
